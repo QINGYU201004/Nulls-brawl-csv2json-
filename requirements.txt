@@ -1,1 +1,2 @@
-tqdm
+tqdm>=4.66.0
+sc-compression>=1.0.0
